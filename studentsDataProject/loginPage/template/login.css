@@ -1,3 +1,26 @@
-*{
-    align-items: center;
+div{
+    border: 2px  solid black;
+    width: 300px;
+    height: 400px;
+    /* display: flex; */
+    align-content: center;
+    margin-left: 40%;
+    margin-top: 10%; 
+}
+.centre{
+    margin-left: 20%;
+    
+    /* border: 2px solid red; */
+}
+button1{
+    display:block; 
+    margin-left: 10%;
+    padding: 3%;
+}
+button2{
+    display: block;
+    margin-left: 50px;
+}
+input{
+    margin: 20px;
 }
