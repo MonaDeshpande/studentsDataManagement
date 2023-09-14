@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'loginPage',
     'website',
+    'studentsDataManagement'
 ]
 
 MIDDLEWARE = [
